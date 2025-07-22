@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_governance/target/debug/governance: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_governance/governance/src/main.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_governance/lib/src/lib.rs
